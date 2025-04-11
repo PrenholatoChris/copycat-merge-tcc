@@ -1,4 +1,5 @@
-scipy
+jupyterlab
+matplotlib
 opencv-python
 tqdm
 scikit-learn
